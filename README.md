@@ -1,5 +1,5 @@
 - 👋 Hello! I'm @akaforce and I'm a Computer Science student from Alberta, Canada! 🍁
-- 👀 I’m interested in languages, visual arts and animation, entrepreneurship, and mathematics.
+- 👀 I’m interested in psephology, languages, visual arts, animation, entrepreneurship, and mathematics.
 - 🌱 I’m currently learning Java at the moment through a university course.
 - 💞️ I aspire to be a software and web developer in 5 years.
 - 📫 Reach me through my instagram account @forshomin.
